@@ -339,7 +339,8 @@ dtb-$(CONFIG_ARCH_ZYNQ) += \
 	zynq-zturn.dtb \
 	zynq-zturn-v5.dtb \
 	zynq-zybo.dtb \
-	zynq-zybo-z7.dtb
+	zynq-zybo-z7.dtb \
+	zynq-pynq-z2.dtb
 dtb-$(CONFIG_ARCH_ZYNQMP) += \
 	avnet-ultra96-rev1.dtb			\
 	avnet-ultrazedev-cc-v1.0-ultrazedev-som-v1.0.dtb	\
